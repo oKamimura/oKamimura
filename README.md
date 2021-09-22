@@ -1,4 +1,5 @@
-## Oi! Bem vindo ao meu github😁 Eu sou o Yago Kamimura
+## Seja muito bem vindo ao meu GitHub !
+### Eu me chamo Yago Kamimura 😉
 
 
 - 📌 Atualmente estou procurando meu primeiro emprego na área de tecnologia
