@@ -3,9 +3,8 @@
 
 
 - 📌 Atualmente estou procurando meu primeiro emprego na área de tecnologia
-- 📖 Estudante de ADS (Analise e desenvolvimento de sistemas), aprendendo: C# (CSharp) e Java 
-- 💬 Contate-me no email: yagokami@gmail.com
-- 😄 Pronouns: Ele / Dele
+- 📖 Estudante de ADS (Analise e desenvolvimento de sistemas) 2º semestre, aprendendo: C# (CSharp) e Java 
+
 
 <div>
   <a href="https://github.com/oKamimura">
