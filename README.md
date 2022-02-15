@@ -3,7 +3,7 @@
 
 
 - 📌 Atualmente estou procurando meu primeiro emprego na área de tecnologia
-- 📖 Estudante de ADS (Analise e desenvolvimento de sistemas) 3º semestre, aprendendo: C# (CSharp) e Java 
+- 📖 Estudante de ADS (Analise e desenvolvimento de sistemas) 3º semestre
 
 
 <div>
