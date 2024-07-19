@@ -2,8 +2,8 @@
 ### Eu me chamo Yago Kamimura 😉
 
 
-- 📌 Atualmente estou procurando meu primeiro emprego na área de tecnologia
-- 📖 Estudante de ADS (Analise e desenvolvimento de sistemas) 3º semestre
+- 📌 Desenvolvedor Full-Stack Jr.
+- 📖 Estudante de Análise e desenvolvimento de sistemas - Último Semestre
 
 
 <div>
