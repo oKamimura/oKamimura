@@ -2,8 +2,8 @@
 ### Eu me chamo Yago Kamimura 😉
 
 
-- 📌 Desenvolvedor Full-Stack Jr.
-- 📖 Estudante de Análise e desenvolvimento de sistemas - Último Semestre
+- 📌 Desenvolvedor Full-Stack.
+- 📖Análise e desenvolvimento de sistemas
 
 
 <div>
