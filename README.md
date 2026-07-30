@@ -17,9 +17,7 @@
 
 ### 👨‍💻 Sobre
 
-Conecto sistemas que não foram feitos para conversar entre si. Na prática: APIs REST, ERPs, planilhas e bancos que precisam virar um fluxo só — e continuar funcionando depois que eu saio de perto.
-
-Trabalho de ponta a ponta, do entendimento do problema com o cliente até a sustentação. Metade técnico, metade conversa — e a segunda metade costuma definir se a primeira resolveu o problema certo.
+Conecto sistemas que não foram feitos para conversar entre si. Na prática: APIs REST, ERPs, planilhas e bancos que precisam virar um fluxo só, e continuar funcionando depois que eu saio de perto.
 
 Ultimamente boa parte disso passa por IA: modelos de linguagem dentro de fluxos que rodam sozinhos, em produção, sem ninguém olhando.
 
