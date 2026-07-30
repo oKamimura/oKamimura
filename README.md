@@ -17,9 +17,11 @@
 
 ### 👨‍💻 Sobre
 
-Conecto sistemas que não foram feitos para conversar entre si e automatizo o que sobra no caminho.
+Conecto sistemas que não foram feitos para conversar entre si. Na prática: APIs REST, ERPs, planilhas e bancos que precisam virar um fluxo só — e continuar funcionando depois que eu saio de perto.
 
-Hoje boa parte disso passa por IA — modelos de linguagem dentro de fluxos que precisam funcionar sozinhos, em produção, sem ninguém olhando.
+Trabalho de ponta a ponta, do entendimento do problema com o cliente até a sustentação. Metade técnico, metade conversa — e a segunda metade costuma definir se a primeira resolveu o problema certo.
+
+Ultimamente boa parte disso passa por IA: modelos de linguagem dentro de fluxos que rodam sozinhos, em produção, sem ninguém olhando.
 
 ### 🧰 Stack
 
@@ -40,11 +42,13 @@ Hoje boa parte disso passa por IA — modelos de linguagem dentro de fluxos que 
   &nbsp;
   <img height="45" width="45" alt="Oracle" title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   &nbsp;
+  <img height="45" width="45" alt="Metabase" title="Metabase" src="https://cdn.simpleicons.org/metabase/509EE3">
+  &nbsp;
   <img height="45" width="45" alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 <p align="center">
-  <sub>TypeScript · Node.js · React · Python · n8n · Supabase · PostgreSQL · Oracle · Docker</sub>
+  <sub>TypeScript · Node.js · React · Python · n8n · Supabase · PostgreSQL · Oracle · Metabase · Docker</sub>
 </p>
 
 ### 📌 Em destaque
