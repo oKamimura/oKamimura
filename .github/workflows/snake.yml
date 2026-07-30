@@ -1,0 +1,36 @@
+name: Snake
+
+# Gera a animação da cobrinha comendo o gráfico de contribuições.
+# O SVG é publicado na branch `output`, que o README consome.
+
+on:
+  schedule:
+    # Todo dia às 03:00 UTC (meia-noite em São Paulo).
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Gera o SVG
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publica na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

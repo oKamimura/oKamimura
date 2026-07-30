@@ -1,36 +1,74 @@
-## Yago Kamimura
+<h1 align="center">Yago Kamimura</h1>
 
-Desenvolvedor full-stack com foco em integrações e IA aplicada. São Paulo.
+<p align="center">
+  <b>Desenvolvedor Full-Stack</b> · Integrações e IA aplicada · São Paulo 🇧🇷
+</p>
 
-Meu trabalho é conectar sistemas que não foram feitos para conversar entre si, e
-automatizar o que sobra depois. Ultimamente isso tem envolvido colocar modelos de
-linguagem no meio do caminho — não como demo, mas como parte de fluxos que rodam
-sozinhos todo dia, com gente de verdade do outro lado.
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagoKamimura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:yagokami@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-### No que estou trabalhando
+---
 
-**LIA** — Agente de IA que conduz o acompanhamento de alunos de uma operação de
-treino online pelo WhatsApp: envia treinos, aplica questionários e responde
-dúvidas. n8n, Supabase e OpenAI, em VPS própria. Em produção, com clientes reais.
+### 👨‍💻 Sobre
 
-**[MyWhisper](https://github.com/oKamimura/mywhisper)** — Ditado global por voz
-para Windows. Segure um atalho, fale, solte: o texto aparece onde o cursor
-estiver, em qualquer aplicativo. Escrevi porque me acostumei a ditar no Mac e não
-achei nada equivalente no Windows. Electron + TypeScript.
+Conecto sistemas que não foram feitos para conversar entre si e automatizo o que sobra no caminho.
 
-### Como eu trabalho
+Hoje boa parte disso passa por IA — modelos de linguagem dentro de fluxos que precisam funcionar sozinhos, em produção, sem ninguém olhando.
 
-Construo com agentes — Claude Code faz parte do meu fluxo diário, não é
-curiosidade. Boa parte do que entrego hoje é integração: APIs que precisam se
-entender, dados que precisam atravessar sistemas, processos que ninguém deveria
-estar fazendo à mão.
+### 🧰 Stack
 
-### Stack
+<div align="center">
+  <img height="45" width="45" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="n8n" title="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71">
+  &nbsp;
+  <img height="45" width="45" alt="Supabase" title="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="PostgreSQL" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="Oracle" title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  &nbsp;
+  <img height="45" width="45" alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
-TypeScript · Node.js · React · Electron · Python
-n8n · Supabase · PostgreSQL · Docker
-APIs da OpenAI e da Anthropic
+<p align="center">
+  <sub>TypeScript · Node.js · React · Python · n8n · Supabase · PostgreSQL · Oracle · Docker</sub>
+</p>
 
-### Contato
+### 📌 Em destaque
 
-[LinkedIn](https://www.linkedin.com/in/yagoKamimura/) · [yagokami@gmail.com](mailto:yagokami@gmail.com)
+<a href="https://github.com/oKamimura/mywhisper">
+  <img align="left" height="80" width="80" alt="MyWhisper" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+</a>
+
+**[MyWhisper](https://github.com/oKamimura/mywhisper)** 🎙️
+
+Ditado global por voz para Windows. Segure um atalho, fale, solte — o texto aparece onde o cursor estiver, em qualquer aplicativo.
+
+<br clear="left">
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oKamimura/oKamimura/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oKamimura/oKamimura/output/github-snake.svg">
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/oKamimura/oKamimura/output/github-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <sub>💬 Aberto a trocar ideia sobre integrações, automação e IA em produção.</sub>
+</p>
