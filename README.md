@@ -1,32 +1,36 @@
-## Seja muito bem vindo ao meu GitHub !
-### Eu me chamo Yago Kamimura 😉
+## Yago Kamimura
 
+Desenvolvedor full-stack com foco em integrações e IA aplicada. São Paulo.
 
-- 📌 Desenvolvedor Full-Stack.
-- 📖Análise e desenvolvimento de sistemas
+Meu trabalho é conectar sistemas que não foram feitos para conversar entre si, e
+automatizar o que sobra depois. Ultimamente isso tem envolvido colocar modelos de
+linguagem no meio do caminho — não como demo, mas como parte de fluxos que rodam
+sozinhos todo dia, com gente de verdade do outro lado.
 
+### No que estou trabalhando
 
-<div>
-  <a href="https://github.com/oKamimura">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oKamimura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKamimura&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="right" alt="Kami" width="130" src="https://i.picasion.com/pic91/40c0ad29845ed4b2ca7e472d2146a264.gif">
-</div>
-  
-##
-  
-<div>
-  
-  <a href="https://www.instagram.com/yagokamii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yagokami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yagoKamimura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.gg/CFnTr3BN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-</div>
+**LIA** — Agente de IA que conduz o acompanhamento de alunos de uma operação de
+treino online pelo WhatsApp: envia treinos, aplica questionários e responde
+dúvidas. n8n, Supabase e OpenAI, em VPS própria. Em produção, com clientes reais.
+
+**[MyWhisper](https://github.com/oKamimura/mywhisper)** — Ditado global por voz
+para Windows. Segure um atalho, fale, solte: o texto aparece onde o cursor
+estiver, em qualquer aplicativo. Escrevi porque me acostumei a ditar no Mac e não
+achei nada equivalente no Windows. Electron + TypeScript.
+
+### Como eu trabalho
+
+Construo com agentes — Claude Code faz parte do meu fluxo diário, não é
+curiosidade. Boa parte do que entrego hoje é integração: APIs que precisam se
+entender, dados que precisam atravessar sistemas, processos que ninguém deveria
+estar fazendo à mão.
+
+### Stack
+
+TypeScript · Node.js · React · Electron · Python
+n8n · Supabase · PostgreSQL · Docker
+APIs da OpenAI e da Anthropic
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/yagoKamimura/) · [yagokami@gmail.com](mailto:yagokami@gmail.com)
