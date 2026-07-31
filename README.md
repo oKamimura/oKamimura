@@ -28,7 +28,7 @@ Ultimamente boa parte disso passa por IA: modelos de linguagem dentro de fluxos 
   &nbsp;
   <img height="45" width="45" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   &nbsp;
-  <img height="45" width="45" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="45" width="45" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   &nbsp;
   <img height="45" width="45" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;
@@ -46,7 +46,7 @@ Ultimamente boa parte disso passa por IA: modelos de linguagem dentro de fluxos 
 </div>
 
 <p align="center">
-  <sub>TypeScript · Node.js · React · Python · n8n · Supabase · PostgreSQL · Oracle · Metabase · Docker</sub>
+  <sub>TypeScript · Node.js · JavaScript · Python · n8n · Supabase · PostgreSQL · Oracle · Metabase · Docker</sub>
 </p>
 
 ### 📌 Em destaque
